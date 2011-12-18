@@ -1,0 +1,63 @@
+TQuiz Game
+v7
+r1
+
+N/Users/heinekev/Downloads/Quiz Game/Default.png
+c000000004B99E52200000000000097CE
+t1268376866
+s38862
+
+N/Users/heinekev/Downloads/Quiz Game/MainWindow.xib
+c0000000049BFF84100000000000021D5
+t1237317697
+s8661
+
+N/Users/heinekev/Downloads/Quiz Game/Quiz_GameViewController.xib
+c000000004BEBAD0D0000000000008A0F
+t1273736461
+s35343
+
+N/Users/heinekev/Downloads/Quiz Game/build/Release-iphoneos/Quiz Game.app
+t2
+s0
+
+N/Users/heinekev/Downloads/Quiz Game/build/Release-iphoneos/Quiz Game.app/Default.png
+t2
+s0
+
+N/Users/heinekev/Downloads/Quiz Game/build/Release-iphoneos/Quiz Game.app/Info.plist
+t2
+s0
+
+N/Users/heinekev/Downloads/Quiz Game/build/Release-iphoneos/Quiz Game.app/MainWindow.nib
+t2
+s0
+
+N/Users/heinekev/Downloads/Quiz Game/build/Release-iphoneos/Quiz Game.app/PkgInfo
+t2
+s0
+
+N/Users/heinekev/Downloads/Quiz Game/build/Release-iphoneos/Quiz Game.app/Quiz_GameViewController.nib
+t2
+s0
+
+NInfo.plist
+c000000004BA56BBF0000000000000363
+t1269132223
+s867
+
+CCompileXIB "/Users/heinekev/Downloads/Quiz Game/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/heinekev/Downloads/Quiz Game/Quiz_GameViewController.xib"
+r0
+
+CCopyPNGFile "/Users/heinekev/Downloads/Quiz Game/build/Release-iphoneos/Quiz Game.app/Default.png" Default.png
+r0
+
+CProcessInfoPlistFile "/Users/heinekev/Downloads/Quiz Game/build/Release-iphoneos/Quiz Game.app/Info.plist" Info.plist
+r0
+
+CTouch "/Users/heinekev/Downloads/Quiz Game/build/Release-iphoneos/Quiz Game.app"
+r0
+

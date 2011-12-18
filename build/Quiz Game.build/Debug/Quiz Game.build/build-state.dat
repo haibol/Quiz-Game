@@ -1,0 +1,51 @@
+TQuiz Game
+v7
+r1
+
+N/Users/heinekev/Downloads/Quiz Game/MainWindow.xib
+c0000000049BFF84100000000000021D5
+t1237317697
+s8661
+
+N/Users/heinekev/Downloads/Quiz Game/Quiz_GameViewController.xib
+c0000000049C1A5130000000000005466
+t1237427475
+s21606
+
+N/Users/heinekev/Downloads/Quiz Game/build/Debug/Quiz Game.app
+t2
+s0
+
+N/Users/heinekev/Downloads/Quiz Game/build/Debug/Quiz Game.app/Contents/Info.plist
+t2
+s0
+
+N/Users/heinekev/Downloads/Quiz Game/build/Debug/Quiz Game.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/heinekev/Downloads/Quiz Game/build/Debug/Quiz Game.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/heinekev/Downloads/Quiz Game/build/Debug/Quiz Game.app/Contents/Resources/Quiz_GameViewController.nib
+t2
+s0
+
+NInfo.plist
+c0000000049BFF8410000000000000386
+t1237317697
+s902
+
+CCompileXIB "/Users/heinekev/Downloads/Quiz Game/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/heinekev/Downloads/Quiz Game/Quiz_GameViewController.xib"
+r0
+
+CProcessInfoPlistFile "/Users/heinekev/Downloads/Quiz Game/build/Debug/Quiz Game.app/Contents/Info.plist" Info.plist
+r0
+
+CTouch "/Users/heinekev/Downloads/Quiz Game/build/Debug/Quiz Game.app"
+r0
+

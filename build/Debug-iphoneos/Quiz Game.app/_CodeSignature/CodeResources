@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>Default.png</key>
+		<data>
+		eWv5ieWSyrl5Ve65xRB5p97EgaU=
+		</data>
+		<key>MainWindow.nib</key>
+		<data>
+		wkRqjwfJZJWzs80Z0PQWh+Ng3Hg=
+		</data>
+		<key>PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>Quiz_GameViewController.nib</key>
+		<data>
+		JBBd+N6WZFaGuC9Wg1tccGs+btI=
+		</data>
+		<key>embedded.mobileprovision</key>
+		<data>
+		MC9upIPcER9kUaDfbPJL4PHuiWk=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>.*</key>
+		<true/>
+		<key>Info.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>ResourceRules.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>100</real>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,261 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* Quiz_GameAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {839, 589}}";
+			sepNavSelRange = "{77, 0}";
+			sepNavVisRange = "{0, 481}";
+		};
+	};
+	1D3623250D0F684500981E51 /* Quiz_GameAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {839, 589}}";
+			sepNavSelRange = "{77, 0}";
+			sepNavVisRange = "{0, 618}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Quiz Game */ = {
+		activeExec = 0;
+		executables = (
+			DC7A4A4A114A066600653B40 /* Quiz Game */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* Quiz_GameViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {839, 975}}";
+			sepNavSelRange = "{1243, 0}";
+			sepNavVisRange = "{47, 1369}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* Quiz_GameViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {839, 6019}}";
+			sepNavSelRange = "{2137, 426}";
+			sepNavVisRange = "{1660, 1525}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecturePreference = armv6;
+		activeBuildConfigurationName = Debug;
+		activeExecutable = DC7A4A4A114A066600653B40 /* Quiz Game */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Quiz Game */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Quiz Game */,
+		);
+		codeSenseManager = DC7A4A57114A066C00653B40 /* Code sense */;
+		executables = (
+			DC7A4A4A114A066600653B40 /* Quiz Game */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					661,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					621,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 318916945;
+			PBXWorkspaceStateSaveDate = 318916945;
+		};
+		perUserProjectItems = {
+			DC010B4D119BD65200726883 /* PBXBookmark */ = DC010B4D119BD65200726883 /* PBXBookmark */;
+			DC010B4F119BD65200726883 /* PBXTextBookmark */ = DC010B4F119BD65200726883 /* PBXTextBookmark */;
+			DC010B50119BD65200726883 /* PBXTextBookmark */ = DC010B50119BD65200726883 /* PBXTextBookmark */;
+			DC16E63113025A0400C3CC61 /* PlistBookmark */ = DC16E63113025A0400C3CC61 /* PlistBookmark */;
+			DC16E63213025A0400C3CC61 /* PBXTextBookmark */ = DC16E63213025A0400C3CC61 /* PBXTextBookmark */;
+			DC16E63313025A0400C3CC61 /* PBXTextBookmark */ = DC16E63313025A0400C3CC61 /* PBXTextBookmark */;
+			DC16E63413025A0400C3CC61 /* PBXTextBookmark */ = DC16E63413025A0400C3CC61 /* PBXTextBookmark */;
+			DC16E63513025A0400C3CC61 /* PBXTextBookmark */ = DC16E63513025A0400C3CC61 /* PBXTextBookmark */;
+			DC16E63613025A0400C3CC61 /* PBXTextBookmark */ = DC16E63613025A0400C3CC61 /* PBXTextBookmark */;
+		};
+		sourceControlManager = DC7A4A56114A066C00653B40 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1313, 644}}";
+			sepNavSelRange = "{60, 0}";
+			sepNavVisRange = "{0, 353}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* Quiz_Game_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1313, 644}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 187}";
+		};
+	};
+	8D1107310486CEB800E47090 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{467, 143}, {912, 695}}";
+		};
+	};
+	DC010B4D119BD65200726883 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DC7624CE114A1CBC00E5EDC2 /* Default.png */;
+	};
+	DC010B4F119BD65200726883 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 5";
+		rLen = 0;
+		rLoc = 60;
+		rType = 0;
+		vrLen = 353;
+		vrLoc = 0;
+	};
+	DC010B50119BD65200726883 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* Quiz_Game_Prefix.pch */;
+		name = "Quiz_Game_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 187;
+		vrLoc = 0;
+	};
+	DC16E63113025A0400C3CC61 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/heinekev/Documents/X-Code Projects/Quiz Game/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	DC16E63213025A0400C3CC61 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Quiz_GameAppDelegate.m */;
+		name = "Quiz_GameAppDelegate.m: 6";
+		rLen = 0;
+		rLoc = 77;
+		rType = 0;
+		vrLen = 618;
+		vrLoc = 0;
+	};
+	DC16E63313025A0400C3CC61 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* Quiz_GameAppDelegate.h */;
+		name = "Quiz_GameAppDelegate.h: 6";
+		rLen = 0;
+		rLoc = 77;
+		rType = 0;
+		vrLen = 481;
+		vrLoc = 0;
+	};
+	DC16E63413025A0400C3CC61 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* Quiz_GameViewController.h */;
+		name = "Quiz_GameViewController.h: 44";
+		rLen = 0;
+		rLoc = 1243;
+		rType = 0;
+		vrLen = 1369;
+		vrLoc = 47;
+	};
+	DC16E63513025A0400C3CC61 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* Quiz_GameViewController.m */;
+		name = "Quiz_GameViewController.m: 85";
+		rLen = 449;
+		rLoc = 1660;
+		rType = 0;
+		vrLen = 1110;
+		vrLoc = 1026;
+	};
+	DC16E63613025A0400C3CC61 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* Quiz_GameViewController.m */;
+		name = "Quiz_GameViewController.m: 98";
+		rLen = 426;
+		rLoc = 2137;
+		rType = 0;
+		vrLen = 1525;
+		vrLoc = 1660;
+	};
+	DC7A4A4A114A066600653B40 /* Quiz Game */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Quiz Game";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	DC7A4A56114A066C00653B40 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	DC7A4A57114A066C00653B40 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
